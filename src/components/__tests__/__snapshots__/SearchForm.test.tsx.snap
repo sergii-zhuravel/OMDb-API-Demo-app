@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchForm component test 1`] = `
+<styled.form
+  onSubmit={[Function]}
+>
+  <styled.input
+    aria-label="Search Input"
+    id="searchInput"
+    name="search"
+    onChange={[Function]}
+    placeholder="Enter Title"
+    type="text"
+    value="test"
+  />
+</styled.form>
+`;

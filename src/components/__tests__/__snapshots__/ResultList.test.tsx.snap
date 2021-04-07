@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ResultList component test 1`] = `
+<styled.table>
+  <thead>
+    <tr>
+      <th>
+        Title
+      </th>
+      <th>
+        Year
+      </th>
+      <th>
+        Thumbnail
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <ResultItem
+      Poster="test/url"
+      Title="Title"
+      Year="2021"
+      imdbID="1"
+      key="1"
+    />
+  </tbody>
+</styled.table>
+`;

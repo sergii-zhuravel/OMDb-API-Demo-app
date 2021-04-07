@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ResultItem component test 1`] = `
+<tr>
+  <td>
+    Title
+  </td>
+  <styled.td>
+    2021
+  </styled.td>
+  <styled.td>
+    <styled.img
+      src="test/url"
+    />
+  </styled.td>
+</tr>
+`;
